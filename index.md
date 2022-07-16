@@ -253,12 +253,12 @@ from [roadmap.sh](https://roadmap.sh/)
 - [ ] Operating System
   - [ ] Linux
     - [ ] Ubuntu
-    - [ ] CentOS
+    - [x] CentOS
     - [ ] RHEL
   - [ ] Unix
     - [ ] FreeBSD
 - [ ] Learn to live in Terminal
-  - [ ] Vim
+  - [x] Vim
   - [ ] Text Manipulation Tools
     - [ ] awk, sed, grep, sort, uniq, cat, cut, echo, fmt, tr, nl, egrep, fgrep, wc
   - [ ] Process Monitoring
@@ -309,9 +309,9 @@ from [roadmap.sh](https://roadmap.sh/)
 
 ## Learn some CI/CD Tools
 - [ ] Gitlab CI
-- [ ] GitHub Actions
-- [ ] Jenkins
-- [ ] Circle CI
+- [x] GitHub Actions
+- [x] Jenkins
+- [x] Circle CI
 
 ## Learn how to monitor software and infrastructure
 - [ ] Infrastructure Monitoring
@@ -326,7 +326,7 @@ from [roadmap.sh](https://roadmap.sh/)
 
 ## Cloud Providers
 - [ ] AWS
-- [ ] Heroku
+- [x] Heroku
 - [ ] Digital Ocean
 
 ## Cloud Design Patterns
