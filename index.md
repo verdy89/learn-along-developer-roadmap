@@ -1,5 +1,6 @@
 from [roadmap.sh](https://roadmap.sh/)
 
+# General
 ## Internet
 - [x] How does the Internet work?
 - [x] What is HTTP?
@@ -51,7 +52,16 @@ from [roadmap.sh](https://roadmap.sh/)
   - [ ] CORS
   - [ ] Content Security Policy
   - [ ] OWASP Security Risks
+- [ ] Hashing Algorithms
+  - [ ] MD5 and why not to use it
+  - [ ] SHA Family
+  - [ ] scrypt
+  - [ ] bcrypt
 
+## Testing
+- [x] Learn the difference between Unit, Integration, and Functional tests
+
+# Frontend
 ## Package Managers
 - [x] npm
 - [x] yarn
@@ -93,13 +103,11 @@ from [roadmap.sh](https://roadmap.sh/)
   - [ ] Tailwind CSS
   - [ ] Material UI
 
-## Testing your Apps
-- [x] Learn the difference between Unit, Integration, and Functional tests
-- [ ] Tools
-  - [ ] Jest
-  - [ ] react-testing-library
-  - [ ] Cypress
-  - [ ] Enzyme
+## Testing Tools
+- [ ] Jest
+- [ ] react-testing-library
+- [ ] Cypress
+- [ ] Enzyme
 
 ## Type Checkers
 - [ ] TypeScript
@@ -140,3 +148,99 @@ from [roadmap.sh](https://roadmap.sh/)
 
 ## Web Assembly
 - [ ] Web Assembly
+
+# Backend
+## OS and General Knowledge
+- [ ] Terminal Usage
+- [ ] How OSs work in General
+- [ ] Process Management
+- [ ] Threads and Concurrency
+- [ ] Basic Terminal Commands
+  - [ ] grep, awk, sed, lsof, curl, wget, tail, head, less, find, ssh, kill
+- [ ] Memory Management
+- [ ] Interprocess Communication
+- [ ] I/O Management
+- [ ] POSIX Basics
+- [ ] Basic Networking Concepts
+
+## Learn a Language
+- [ ] Javascript
+- [ ] Ruby
+
+## Relational Databases
+- [ ] PostgreSQL
+- [ ] MySQL
+
+## More about Databases
+- [ ] Data Replication
+- [ ] Sharding Strategies
+- [ ] CAP Theorem
+- [ ] NoSQL Databases
+  - [ ] MongoDB
+  - [ ] Firebase
+
+## Learn about APIs
+- [ ] REST
+- [ ] JSON APIs
+- [ ] SOAP
+- [ ] gRPC
+- [ ] Open API Spec and Swagger
+- [ ] Authentication
+  - [ ] OAuth
+  - [ ] Basic Authentication
+  - [ ] Token Authentication
+  - [ ] JWT
+
+## Caching
+- [ ] CDN
+- [ ] Server Side
+  - [ ] Redis
+  - [ ] Memcached
+- [ ] Client Side
+
+## CI/CD
+
+## Design and Development Principles
+- [ ] GOF Design Patterns
+- [ ] Domain Driven Design
+- [ ] Test Driven Development
+- [ ] SOLID
+- [ ] KISS
+- [ ] YAGNI
+- [ ] DRY
+- [ ] Architectural Patterns
+  - [ ] Monolithic Apps
+  - [ ] Microservices
+  - [ ] SOA
+  - [ ] CQES and Event Sourcing
+  - [ ] Serverless
+
+## Search Engines
+- [ ] Elasticsearch
+
+## Message Brokers
+- [ ] Rabbit MQ
+
+## Containerization vs Virtualization
+- [ ] Docker
+
+## GraphQL
+- [ ] Apollo
+
+## Graph Databases
+- [ ] Neo4j
+
+## WebSockets
+
+## Web Servers
+- [ ] Nginx
+
+## Building for Scale
+- [ ] Migration Strategies
+- [ ] Horizontal vs Vertical Scaling
+- [ ] Building with Observability in mind
+- [ ] Mitigation Strategies
+- [ ] Understand the difference
+  - [ ] Instrumentation
+  - [ ] Monitoring
+  - [ ] Telemetry
