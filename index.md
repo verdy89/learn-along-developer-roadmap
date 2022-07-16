@@ -2,22 +2,22 @@ from [roadmap.sh](https://roadmap.sh/)
 
 ## Internet
 - [x] How does the Internet work?
-- [ ] What is HTTP?
-- [ ] Browsers and how they work?
-- [ ] DNS and how it works?
-- [ ] What is Domain Name?
-- [ ] What is hosting?
+- [x] What is HTTP?
+- [x] Browsers and how they work?
+- [x] DNS and how it works?
+- [x] What is Domain Name?
+- [x] What is hosting?
 
 ## HTML
-- [ ] Learn the basics
+- [x] Learn the basics
 - [ ] Writing Semantic HTML
-- [ ] Forms and Validations
-- [ ] Conventions and Best Practices
+- [x] Forms and Validations
+- [x] Conventions and Best Practices
 - [ ] Accessibility
-- [ ] SEO Basics
+- [x] SEO Basics
 
 ## CSS
-- [ ] Learn the basics
+- [x] Learn the basics
 - [ ] Making Layouts
   - [ ] Floats
   - [ ] Positioning
@@ -28,9 +28,9 @@ from [roadmap.sh](https://roadmap.sh/)
 - [ ] Responsive design and Media Queries
 
 ## JavaScript
-- [ ] Syntax and Basic Constructs
-- [ ] Learn DOM Manipulation
-- [ ] Learn Fetch API / Ajax (XHR)
+- [x] Syntax and Basic Constructs
+- [x] Learn DOM Manipulation
+- [x] Learn Fetch API / Ajax (XHR)
 - [ ] ES6+ and modular Javascript
 - [ ] Understand the concepts below
   - [ ] Hoisting
@@ -41,9 +41,9 @@ from [roadmap.sh](https://roadmap.sh/)
   - [ ] strict
 
 ## Version Control Systems
-- [ ] Basic Usage of Git
-- [ ] Repo hosting services
-  - [ ] GitHub
+- [x] Basic Usage of Git
+- [x] Repo hosting services
+  - [x] GitHub
 
 ## Web Security Knowledge
 - [ ] Get at least a basic knowledge of all of these
@@ -53,14 +53,14 @@ from [roadmap.sh](https://roadmap.sh/)
   - [ ] OWASP Security Risks
 
 ## Package Managers
-- [ ] npm
-- [ ] yarn
+- [x] npm
+- [x] yarn
 
 ## CSS Architecture
-- [ ] BEM
+- [x] BEM
 
 ## CSS Preprocessors
-- [ ] Sass
+- [x] Sass
 
 ## Build Tools
 - [ ] Task Runners
@@ -94,7 +94,7 @@ from [roadmap.sh](https://roadmap.sh/)
   - [ ] Material UI
 
 ## Testing your Apps
-- [ ] Learn the difference between Unit, Integration, and Functional tests
+- [x] Learn the difference between Unit, Integration, and Functional tests
 - [ ] Tools
   - [ ] Jest
   - [ ] react-testing-library
