@@ -1,7 +1,7 @@
 from [roadmap.sh](https://roadmap.sh/)
 
 ## Internet
-- [ ] How does the Internet work?
+- [x] How does the Internet work?
 - [ ] What is HTTP?
 - [ ] Browsers and how they work?
 - [ ] DNS and how it works?
