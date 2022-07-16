@@ -46,6 +46,29 @@ from [roadmap.sh](https://roadmap.sh/)
 - [x] Repo hosting services
   - [x] GitHub
 
+## Learn a Language
+- [x] Javascript
+- [x] Ruby
+- [ ] Go
+
+## OS and General Knowledge
+- [x] Terminal Usage
+- [x] How OSs work in General
+- [x] Process Management
+- [x] Threads and Concurrency
+- [x] Basic Terminal Commands
+  - [x] grep, awk, sed, lsof, curl, wget, tail, head, less, find, ssh, kill
+- [x] Memory/Storage
+- [x] File Systems
+- [ ] Interprocess Communication
+- [ ] Sockets
+- [x] I/O Management
+- [ ] POSIX Basics
+- [ ] Networking Concepts
+- [ ] Virtualization
+- [ ] Startup Management (initd)
+- [ ] Service Management (systemd)
+
 ## Web Security Knowledge
 - [ ] Get at least a basic knowledge of all of these
   - [ ] HTTPS
@@ -133,9 +156,6 @@ from [roadmap.sh](https://roadmap.sh/)
 - [ ] Next.js
 - [ ] Nuxt.js
 
-## GraphQL
-- [ ] Apollo
-
 ## Static Site Generators
 - [ ] Next.js
 - [ ] GatsbyJS
@@ -150,23 +170,6 @@ from [roadmap.sh](https://roadmap.sh/)
 - [ ] Web Assembly
 
 # Backend
-## OS and General Knowledge
-- [x] Terminal Usage
-- [x] How OSs work in General
-- [x] Process Management
-- [x] Threads and Concurrency
-- [x] Basic Terminal Commands
-  - [x] grep, awk, sed, lsof, curl, wget, tail, head, less, find, ssh, kill
-- [x] Memory Management
-- [x] Interprocess Communication
-- [x] I/O Management
-- [ ] POSIX Basics
-- [ ] Basic Networking Concepts
-
-## Learn a Language
-- [x] Javascript
-- [x] Ruby
-
 ## Relational Databases
 - [x] PostgreSQL
 - [x] MySQL
@@ -212,7 +215,7 @@ from [roadmap.sh](https://roadmap.sh/)
   - [ ] Monolithic Apps
   - [ ] Microservices
   - [ ] SOA
-  - [ ] CQES and Event Sourcing
+  - [ ] CQRS and Event Sourcing
   - [ ] Serverless
 
 ## Search Engines
@@ -244,3 +247,90 @@ from [roadmap.sh](https://roadmap.sh/)
   - [ ] Instrumentation
   - [ ] Monitoring
   - [ ] Telemetry
+
+# DevOps
+## Learn about Managing Servers
+- [ ] Operating System
+  - [ ] Linux
+    - [ ] Ubuntu
+    - [ ] CentOS
+    - [ ] RHEL
+  - [ ] Unix
+    - [ ] FreeBSD
+- [ ] Learn to live in Terminal
+  - [ ] Vim
+  - [ ] Text Manipulation Tools
+    - [ ] awk, sed, grep, sort, uniq, cat, cut, echo, fmt, tr, nl, egrep, fgrep, wc
+  - [ ] Process Monitoring
+    - [ ] ps, top, htop, atop, lsof
+  - [ ] System Performance
+    - [ ] nmon, iostat, sat, vmstat
+  - [ ] Network
+    - [ ] nmap, tcpdump, ping, mtr, traceroute, dig, airmon, airodump, iptables, netstat
+  - [ ] Compiling apps from source
+    - [ ] gcc, make
+  - [ ] Other commands
+    - [ ] strace, dtrace, systemtap, uname, df, history
+  - [ ] terminal multiplexers
+    - [ ] tmux
+
+## Networking, Security and Protocols
+- [ ] HTTP
+- [ ] HTTPS
+- [ ] FTP
+- [ ] SSL / TLS
+- [ ] SSH
+- [ ] Port Forwarding
+- [ ] Emails
+  - [ ] SMTP
+  - [ ] IMAPS
+  - [ ] POP3S
+  - [ ] DMARC
+  - [ ] SPF
+  - [ ] Domain Keys
+  - [ ] White/Grey Listing
+
+## How to setup
+- [ ] Reverse Proxy
+- [ ] Forward Proxy
+- [ ] Caching Server
+- [ ] Load Balancer
+- [ ] Firewall
+
+## Learn Infrastructure as Code
+- [ ] Configuration Management
+  - [ ] Ansible
+- [ ] Container Orchestration
+  - [ ] Kubernetes
+- [ ] Infrastructure Provisioning
+  - [ ] Terraform
+- [ ] Service Mesh
+  - [ ] Istio
+
+## Learn some CI/CD Tools
+- [ ] Gitlab CI
+- [ ] GitHub Actions
+- [ ] Jenkins
+- [ ] Circle CI
+
+## Learn how to monitor software and infrastructure
+- [ ] Infrastructure Monitoring
+  - [ ] Prometheus
+  - [ ] Grafana
+  - [ ] Datadog
+- [ ] Application Monitoring
+  - [ ] Jaeger
+  - [ ] New Relic
+- [ ] Logs Management
+  - [ ] Elastic Stack
+
+## Cloud Providers
+- [ ] AWS
+- [ ] Heroku
+- [ ] Digital Ocean
+
+## Cloud Design Patterns
+- [ ] Availability
+- [ ] Data Management
+- [ ] Design and Implementation
+- [ ] Management and Monitoring
