@@ -53,8 +53,8 @@ from [roadmap.sh](https://roadmap.sh/)
   - [ ] Content Security Policy
   - [ ] OWASP Security Risks
 - [ ] Hashing Algorithms
-  - [ ] MD5 and why not to use it
-  - [ ] SHA Family
+  - [x] MD5 and why not to use it
+  - [x] SHA Family
   - [ ] scrypt
   - [ ] bcrypt
 
@@ -85,7 +85,7 @@ from [roadmap.sh](https://roadmap.sh/)
 ## Frameworks
 - [ ] React
   - [ ] Redux
-- [ ] Vue.js
+- [x] Vue.js
 
 ## Modern CSS
 - [ ] Styled Components
@@ -151,25 +151,25 @@ from [roadmap.sh](https://roadmap.sh/)
 
 # Backend
 ## OS and General Knowledge
-- [ ] Terminal Usage
-- [ ] How OSs work in General
-- [ ] Process Management
-- [ ] Threads and Concurrency
-- [ ] Basic Terminal Commands
-  - [ ] grep, awk, sed, lsof, curl, wget, tail, head, less, find, ssh, kill
-- [ ] Memory Management
-- [ ] Interprocess Communication
-- [ ] I/O Management
+- [x] Terminal Usage
+- [x] How OSs work in General
+- [x] Process Management
+- [x] Threads and Concurrency
+- [x] Basic Terminal Commands
+  - [x] grep, awk, sed, lsof, curl, wget, tail, head, less, find, ssh, kill
+- [x] Memory Management
+- [x] Interprocess Communication
+- [x] I/O Management
 - [ ] POSIX Basics
 - [ ] Basic Networking Concepts
 
 ## Learn a Language
-- [ ] Javascript
-- [ ] Ruby
+- [x] Javascript
+- [x] Ruby
 
 ## Relational Databases
-- [ ] PostgreSQL
-- [ ] MySQL
+- [x] PostgreSQL
+- [x] MySQL
 
 ## More about Databases
 - [ ] Data Replication
@@ -180,19 +180,19 @@ from [roadmap.sh](https://roadmap.sh/)
   - [ ] Firebase
 
 ## Learn about APIs
-- [ ] REST
+- [x] REST
 - [ ] JSON APIs
 - [ ] SOAP
 - [ ] gRPC
 - [ ] Open API Spec and Swagger
 - [ ] Authentication
-  - [ ] OAuth
-  - [ ] Basic Authentication
+  - [x] OAuth
+  - [x] Basic Authentication
   - [ ] Token Authentication
   - [ ] JWT
 
 ## Caching
-- [ ] CDN
+- [x] CDN
 - [ ] Server Side
   - [ ] Redis
   - [ ] Memcached
@@ -203,11 +203,11 @@ from [roadmap.sh](https://roadmap.sh/)
 ## Design and Development Principles
 - [ ] GOF Design Patterns
 - [ ] Domain Driven Design
-- [ ] Test Driven Development
+- [x] Test Driven Development
 - [ ] SOLID
-- [ ] KISS
-- [ ] YAGNI
-- [ ] DRY
+- [x] KISS
+- [x] YAGNI
+- [x] DRY
 - [ ] Architectural Patterns
   - [ ] Monolithic Apps
   - [ ] Microservices
@@ -222,7 +222,7 @@ from [roadmap.sh](https://roadmap.sh/)
 - [ ] Rabbit MQ
 
 ## Containerization vs Virtualization
-- [ ] Docker
+- [x] Docker
 
 ## GraphQL
 - [ ] Apollo
@@ -233,7 +233,7 @@ from [roadmap.sh](https://roadmap.sh/)
 ## WebSockets
 
 ## Web Servers
-- [ ] Nginx
+- [x] Nginx
 
 ## Building for Scale
 - [ ] Migration Strategies
